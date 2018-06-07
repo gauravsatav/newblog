@@ -6,10 +6,19 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>my new post</title>
+      <link>/2018/06/07/my-new-post/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/07/my-new-post/</guid>
+      <description>Car fuel effieicenylibrary(ggplot2)ggplot(mtcars,aes(x=hp,y=mpg,color=as.factor(cyl)))+geom_point()</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
